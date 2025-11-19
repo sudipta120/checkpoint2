@@ -10,7 +10,7 @@
  * NOTE: These values are NOT secure and are only for practice.
  */
 
-// Basic database credentials (mock values)
+
 const DB_USER = "admin";          // database username
 const DB_PASSWORD = "password123"; // database password (mock only)
 const DB_HOST = "localhost";       // where the DB server is running
