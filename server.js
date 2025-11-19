@@ -16,7 +16,7 @@
  */
 
 // -----------------------------------------------------------
-// Load Express (you must install it in a real project)
+
 // -----------------------------------------------------------
 const express = require("express");
 
